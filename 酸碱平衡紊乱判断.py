@@ -1,3 +1,5 @@
+#酸碱平衡紊乱判断
+
 x = float(input("pH="))
 y = float(input("PaCO2(mmHg)="))
 z = float(input("HCO3-(mmol/L)="))
